@@ -14,5 +14,5 @@ Simple Fernet Encryption Program
 4. Push the decrypt button
 
 # Special Thanks 
-Special Thanks to Itzik Gur for making icon.ico http://itzikgur.deviantart.com
-Special Thanks to Stack Overflow :)
+1. Special Thanks to Itzik Gur for making icon.ico http://itzikgur.deviantart.com
+2. Special Thanks to Stack Overflow :)
